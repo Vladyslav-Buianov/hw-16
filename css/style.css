@@ -1,0 +1,11 @@
+.bg-box{
+    width: 1162px;
+    height: 685px;
+    margin: 5% 5% 5% 5%;
+    box-sizing: border-box;
+    background-color: rgb(3, 96, 3);
+    background-image: url(../img/grass.png),url(../img/house.png),url(../img/lamp.png),url(../img/donut.png),url(../img/hedgehog.png);
+    background-size: 30% 38%,50% 50%,4% 11%,5% 5%,3% 3%;
+    background-repeat: repeat-x,no-repeat,repeat-x,repeat-y,repeat-y;
+    background-position: bottom,center,top,right,left;
+}
